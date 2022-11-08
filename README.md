@@ -13,5 +13,10 @@ I have already developed some web application.
 [<img src='https://cdn2.iconfinder.com/data/icons/social-media-icons-23/800/linkedin-512.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/muhammad-abdulla-al-hossain-sozon-691414121/) 
 [<img src='https://cdn2.iconfinder.com/data/icons/social-media-icons-23/800/facebook-128.png' alt='facebook' height='40'>](https://www.facebook.com/mdsozon420.py/)
 
-![Muhammad Abdulla Al Hossain github stats](https://github-readme-stats.vercel.app/api?username=mdsozon45-source&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsozon45-source&layout=compact)](https://github.com/mdsozon45-source/github-readme-stats)
+![Muhammad Abdulla Al Hossain github stats](https://github-readme-stats.vercel.app/api?username=mdsozon45-source&show_icons=true&count_private=true) 
+
+![Profile views](https://gpvc.arturio.dev/mdsozon45-source)
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 
