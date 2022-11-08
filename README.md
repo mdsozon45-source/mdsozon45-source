@@ -15,6 +15,8 @@ I have already developed some web application.
 
 ![Muhammad Abdulla Al Hossain github stats](https://github-readme-stats.vercel.app/api?username=mdsozon45-source&show_icons=true&count_private=true) 
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdsozon45-source) 
+
 ![Profile views](https://gpvc.arturio.dev/mdsozon45-source)
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
